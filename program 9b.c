@@ -4,7 +4,7 @@ void main()
 {
 int i;
 clrscr();
-for(i=1;1<11;i++)
+for(i=1;i<11;i++)
 printf("\n%d",i);
 getch();
 }
